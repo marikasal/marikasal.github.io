@@ -1,0 +1,38 @@
+body {
+    background-image: url("background1.jpg");
+    background-color: rgb(44, 43, 43);
+    background-repeat: no-repeat;
+    background-size: auto;
+    color: whitesmoke;
+    font-size: 20px;
+    margin: 70px;
+
+}
+h1 {
+    color: black;
+    font-size: 100px;
+    margin-bottom: 200px;
+}
+h2 {
+    font-size: 30px;
+    color: black;
+}
+h3{
+    font-size: 30px;
+    color: black;
+}
+h4{
+    font-size: 30px;
+    color: black;
+}
+p {
+    font-family: Garamond, Georgia, 'Times New Roman', Times, serif;
+    
+}
+footer{
+    font-size: 15px;
+    font-style: italic;
+    display: block;
+    margin-top: 80px;
+    margin-bottom: 0px;
+}
